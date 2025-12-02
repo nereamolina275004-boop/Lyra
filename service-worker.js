@@ -1,4 +1,4 @@
-const CACHE_NAME = "lyra-cache-v2";
+const CACHE_NAME = "lyra-cache-v3";
 const ASSETS = [
   "/", 
   "/index.html",
@@ -7,8 +7,8 @@ const ASSETS = [
   "/manifest.json",
   "/icon-192.png",
   "/icon-512.png",
-  "/ChatGPT Image 2 dic 2025, 03_09_25.png", 
-  "/ChatGPT Image 2 dic 2025, 02_45_41.png"
+  "/bg-chat.png", 
+  "/bg-welcome.png"
 ];
 
 // INSTALACIÓN – Guarda todo en caché
