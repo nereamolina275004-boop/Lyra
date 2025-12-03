@@ -1,4 +1,4 @@
-const CACHE_NAME = "lyra-cache-v6";
+const CACHE_NAME = "lyra-cache-v7";
 const ASSETS = [
   "/", 
   "/index.html",
